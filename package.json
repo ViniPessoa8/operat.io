@@ -1,0 +1,26 @@
+{
+  "name": "operat.io",
+  "version": "1.0.0",
+  "description": "simple math game, answer first and correctly, but the time is counting.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViniPessoa8/operat.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViniPessoa8/operat.io/issues"
+  },
+  "homepage": "https://github.com/ViniPessoa8/operat.io#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
