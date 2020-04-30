@@ -2,15 +2,15 @@
   "name": "operat.io",
   "version": "1.0.0",
   "description": "simple math game, answer first and correctly, but the time is counting.",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon app"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ViniPessoa8/operat.io.git"
   },
-  "keywords": [],
+  "keywecho \"Error: no test specified\" && exit uords": [],
   "author": "",
   "license": "ISC",
   "bugs": {

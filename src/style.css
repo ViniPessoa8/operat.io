@@ -1,0 +1,21 @@
+body {
+    background-color: darkolivegreen;
+}
+
+.main-container {
+    height: 1000px;
+    position: relative;
+    border: green solid 2px;
+}
+
+.box-container {
+    width: 500px;
+    height: 500px;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    background-color: whitesmoke;
+}
