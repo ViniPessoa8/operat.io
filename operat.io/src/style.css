@@ -76,6 +76,7 @@ body {
 
 .btn-calculate {
     top: 50px;
+    width: 70%;
     background-color: aliceblue;
     color: black;
     border: 0px solid var(--color-2);
