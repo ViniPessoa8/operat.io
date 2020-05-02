@@ -16,7 +16,7 @@ body {
     justify-content: center;
 }
 
-.inner-box {
+.box {
     position: relative;
     width: 400px;
     height: 500px;
@@ -27,7 +27,7 @@ body {
     align-items: center;
     border-radius: 45px;
     background-color: var(--color-3);
-    border: 15px solid var(--color-2);
+    border: 7px solid var(--color-2);
 }
 
 .box-container {
@@ -65,6 +65,7 @@ body {
     width: 40px;
     height: 40px;
     font-size: 35px;
+    padding-top: -3px;
 }
 
 .input-container {
@@ -72,6 +73,12 @@ body {
     color: black;
     text-align: center;
     outline: none;
+    border: 1px solid black;
+}
+
+.op p {
+    margin: 0;
+    transform: translateY(-2px);
 }
 
 .btn-calculate {
@@ -88,10 +95,3 @@ body {
     border-width: 3px;
     cursor: pointer;
 }
-
-/* .input-container input {
-    position: absolute;
-    border: none;
-    height: 100%;
-    width: 100%;
-} */
